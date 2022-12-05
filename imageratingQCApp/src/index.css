@@ -1,0 +1,56 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  min-height: 1600px;
+  background: rgb(2,0,36);
+  background: linear-gradient(53deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+input {
+  font-size: 1.5em;
+  margin: 2em;
+}
+
+button {
+  font-size: 1.5em;
+}
+
+.page {
+  padding: 2em;
+  font-size: 2em;
+  color: ivory;
+}
+
+#drop_zone {
+  border: 5px solid blue;
+  width:  200px;
+  height: 100px;
+}
+
+.RatingButton {
+  border: 12px dotted #1C6EA4;
+  width: 200px;
+}
+
+.ButtonLeft {
+    border-radius: 22px 0px 0px 0px;
+}
+
+
+.ButtonRight {
+    border-radius: 0px 22px 0px 0px;
+}
+
+.RatingButton:hover {
+  border: 12px solid #1C6EA4;
+}
