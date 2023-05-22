@@ -1,0 +1,5 @@
+ABIDE ratings:
+
+FSQC_scores_ABIDE_images.csv: FSQC rating for each of 10 images per participant, by raters SB and RB
+
+FSQC_scores_ABIDE_average.csv: FSQC rating per participant (averaged across 10 images), by raters SB, RB, and average of both
